@@ -1,0 +1,3512 @@
+[
+  {
+    "_id": "132560",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "victoria",
+      "country": "Mexico",
+      "state": "tamaulipas",
+      "street": "frente al tecnologico"
+    },
+    "cuisines": "Regional",
+    "location": {
+      "latitude": "23.7523041",
+      "longitude": "-99.166913"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "open",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "permitted"
+    },
+    "placeName": "puesto de gorditas"
+  },
+  {
+    "_id": "132561",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "23.726819",
+      "longitude": "-99.126506"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "cafe ambar"
+  },
+  {
+    "_id": "132564",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "23.7309245",
+      "longitude": "-99.145185"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "churchs"
+  },
+  {
+    "_id": "132572",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": ""
+    },
+    "cuisines": "Cafeteria",
+    "location": {
+      "latitude": "22.1416471",
+      "longitude": "-100.99271"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Cafe Chaires"
+  },
+  {
+    "_id": "132583",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, bank_debit_cards",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Rayon sn col. Centro"
+    },
+    "cuisines": "American",
+    "location": {
+      "latitude": "18.9222904",
+      "longitude": "-99.234332"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "partially",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "McDonalds Centro"
+  },
+  {
+    "_id": "132584",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.7523648",
+      "longitude": "-99.165288"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Gorditas Dona Tota"
+  },
+  {
+    "_id": "132594",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.7521677",
+      "longitude": "-99.165709"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "open",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "tacos de barbacoa enfrente del Tec"
+  },
+  {
+    "_id": "132608",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "victoria",
+      "country": "Mexico",
+      "state": "Tamaulipas",
+      "street": "cd. mier"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.7588052",
+      "longitude": "-99.16513"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "open",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "permitted"
+    },
+    "placeName": "Hamburguesas La perica"
+  },
+  {
+    "_id": "132609",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "victoria",
+      "country": "Mexico",
+      "state": "Tamaulipas",
+      "street": "tampico"
+    },
+    "cuisines": "Fast_Food",
+    "location": {
+      "latitude": "23.7602683",
+      "longitude": "-99.165865"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Pollo_Frito_Buenos_Aires"
+  },
+  {
+    "_id": "132613",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "victoria",
+      "country": "Mexico",
+      "state": "Tamaulipas",
+      "street": "lic. Emilio portes gil"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.7529035",
+      "longitude": "-99.165076"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "permitted"
+    },
+    "placeName": "carnitas_mata"
+  },
+  {
+    "_id": "132626",
+    "acceptedPaymentModes": "cash, American_Express",
+    "address": {
+      "city": "victoria",
+      "country": "Mexico",
+      "state": "tamaulipas",
+      "street": ""
+    },
+    "cuisines": "Italian",
+    "location": {
+      "latitude": "23.7375834",
+      "longitude": "-99.135132"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "la perica hamburguesa"
+  },
+  {
+    "_id": "132630",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "victoria",
+      "country": "Mexico",
+      "state": "tamaulipas",
+      "street": "blvrd emilio portes gil"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.7529305",
+      "longitude": "-99.164473"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "palomo tec"
+  },
+  {
+    "_id": "132654",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "victoria",
+      "country": "Mexico",
+      "state": "tamaulipas",
+      "street": "16 de Septiembre"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "23.7355234",
+      "longitude": "-99.129588"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "Carnitas Mata Calle 16 de Septiembre"
+  },
+  {
+    "_id": "132660",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "victoria",
+      "country": "Mexico",
+      "state": "tamaulipas",
+      "street": "Emilio Portes Gil"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "23.7529428",
+      "longitude": "-99.164679"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "carnitas mata calle Emilio Portes Gil"
+  },
+  {
+    "_id": "132663",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "victoria",
+      "country": "Mexico",
+      "state": "tamaulipas",
+      "street": ""
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.7525107",
+      "longitude": "-99.166954"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "tacos abi"
+  },
+  {
+    "_id": "132665",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "victoria",
+      "country": "Mexico",
+      "state": "tamaulipas",
+      "street": ""
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.7367977",
+      "longitude": "-99.134241"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "TACOS CORRECAMINOS"
+  },
+  {
+    "_id": "132667",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "victoria",
+      "country": "Mexico",
+      "state": "tamaulipas",
+      "street": "calle emilio portes gil"
+    },
+    "cuisines": "Armenian",
+    "location": {
+      "latitude": "23.7526973",
+      "longitude": "-99.163359"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "little pizza Emilio Portes Gil"
+  },
+  {
+    "_id": "132668",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "victoria",
+      "country": "Mexico",
+      "state": "tamaulipas",
+      "street": ""
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.738212",
+      "longitude": "-99.151955"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "TACOS EL GUERO"
+  },
+  {
+    "_id": "132706",
+    "acceptedPaymentModes": "cash, VISA",
+    "address": {
+      "city": "Cd. Victoria",
+      "country": "Mexico",
+      "state": "Tamaulipas",
+      "street": "Zaragoza entre Francisco Zarco y Lopez Velarde"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.7292162",
+      "longitude": "-99.132357"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Gorditas Dona Tota"
+  },
+  {
+    "_id": "132715",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.7324226",
+      "longitude": "-99.15866"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "open",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "tacos de la estacion"
+  },
+  {
+    "_id": "132717",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "Fast_Food",
+    "location": {
+      "latitude": "23.7318602",
+      "longitude": "-99.150437"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "partially",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "tortas hawai"
+  },
+  {
+    "_id": "132723",
+    "acceptedPaymentModes": "cash, VISA",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": ""
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "22.1489337",
+      "longitude": "-101.01985"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "Full_Bar",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "section"
+    },
+    "placeName": "Gordas de morales"
+  },
+  {
+    "_id": "132732",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Cd Victoria",
+      "country": "Mexico",
+      "state": "Tamaulipas",
+      "street": "Calle Mezquite Fracc Framboyanes"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.7543569",
+      "longitude": "-99.171288"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "open",
+      "dressCode": "casual",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "Taqueria EL amigo"
+  },
+  {
+    "_id": "132733",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, bank_debit_cards",
+    "address": {
+      "city": "Ciudad Victoria",
+      "country": "Mexico",
+      "state": "Tamaulipas",
+      "street": ""
+    },
+    "cuisines": "Pizzeria",
+    "location": {
+      "latitude": "23.7527071",
+      "longitude": "-99.162566"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Little Cesarz"
+  },
+  {
+    "_id": "132740",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Ciudad Victoria",
+      "country": "Mexico",
+      "state": "Tamaulipas",
+      "street": ""
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.7521965",
+      "longitude": "-99.166632"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "open",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "permitted"
+    },
+    "placeName": "Carreton de Flautas y Migadas"
+  },
+  {
+    "_id": "132754",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "S.L.P.",
+      "street": "Cuauhtemoc 455"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "22.1477379",
+      "longitude": "-100.99062"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "partially",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Cabana Huasteca"
+  },
+  {
+    "_id": "132755",
+    "acceptedPaymentModes": "cash, VISA, American_Express, bank_debit_cards",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "S.L.P.",
+      "street": "Av. de los Pintores"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "22.153324",
+      "longitude": "-101.01955"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "partially",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "variety",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "La Estrella de Dimas"
+  },
+  {
+    "_id": "132766",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Himno nacional esq. Blvd. Juarez"
+    },
+    "cuisines": "Japanese",
+    "location": {
+      "latitude": "18.9101777",
+      "longitude": "-99.231544"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Mikasa"
+  },
+  {
+    "_id": "132767",
+    "acceptedPaymentModes": "cash, VISA, American_Express",
+    "address": {
+      "city": "Jiutepec",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Paseo de las Fuentes"
+    },
+    "cuisines": "Vietnamese",
+    "location": {
+      "latitude": "18.8820871",
+      "longitude": "-99.163027"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "partially",
+      "alcohol": "Wine-Beer",
+      "area": "open",
+      "dressCode": "casual",
+      "franchise": "f",
+      "otherServices": "variety",
+      "price": "medium",
+      "smokingArea": "permitted"
+    },
+    "placeName": "Restaurant Familiar El Chino"
+  },
+  {
+    "_id": "132768",
+    "acceptedPaymentModes": "cash, bank_debit_cards",
+    "address": {
+      "city": "cuernavaca",
+      "country": "Mexico",
+      "state": "morelos",
+      "street": "avenida salvador montiel"
+    },
+    "cuisines": "Family",
+    "location": {
+      "latitude": "18.9257734",
+      "longitude": "-99.232636"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "partially",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "casual",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Mariscos Tia Licha"
+  },
+  {
+    "_id": "132773",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Emiliano Zapata Col. Tres de Mayo"
+    },
+    "cuisines": "Family, Mexican",
+    "location": {
+      "latitude": "18.8699929",
+      "longitude": "-99.21032"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "open",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "permitted"
+    },
+    "placeName": "El cotorreo"
+  },
+  {
+    "_id": "132825",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "s.l.p.",
+      "country": "Mexico",
+      "state": "s.l.p.",
+      "street": "esquina santos degollado y leon guzman"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "22.1473922",
+      "longitude": "-100.98309"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "open",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "puesto de tacos"
+  },
+  {
+    "_id": "132830",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.1508494",
+      "longitude": "-100.93975"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "Rincon Huasteco"
+  },
+  {
+    "_id": "132834",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "san luis potosi",
+      "country": "Mexico",
+      "state": "san luis potosi",
+      "street": "sevilla y olmedo 715 a"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "22.156469",
+      "longitude": "-100.98554"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "casual",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Gorditas Doa Gloria"
+  },
+  {
+    "_id": "132845",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "san luis potosi",
+      "country": "Mexico",
+      "state": "san luis potosi",
+      "street": "av. seminario"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "22.1262926",
+      "longitude": "-100.90078"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Cenaduria El Rinc\u00c3\u00b3n de Tlaquepaque"
+  },
+  {
+    "_id": "132846",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "san luis potosi",
+      "country": "Mexico",
+      "state": "slp",
+      "street": "circuito oriente esq. carretera 57"
+    },
+    "cuisines": "International",
+    "location": {
+      "latitude": "22.1422732",
+      "longitude": "-100.94265"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "open",
+      "dressCode": "casual",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "permitted"
+    },
+    "placeName": "el lechon potosino"
+  },
+  {
+    "_id": "132847",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "slp",
+      "country": "Mexico",
+      "state": "slp",
+      "street": "r.b. anaya esq. florencia"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.1443365",
+      "longitude": "-100.93738"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "open",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "don burguers"
+  },
+  {
+    "_id": "132851",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": ""
+    },
+    "cuisines": "American, Game",
+    "location": {
+      "latitude": "22.136872",
+      "longitude": "-100.93457"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "KFC"
+  },
+  {
+    "_id": "132854",
+    "acceptedPaymentModes": "cash, VISA, bank_debit_cards",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": "carr. mexico"
+    },
+    "cuisines": "International",
+    "location": {
+      "latitude": "22.1378633",
+      "longitude": "-100.93833"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Sirlone"
+  },
+  {
+    "_id": "132856",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": "Plaza del Carmen"
+    },
+    "cuisines": "Italian",
+    "location": {
+      "latitude": "22.1513782",
+      "longitude": "-100.97463"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "Unicols Pizza"
+  },
+  {
+    "_id": "132858",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": "Av. Coral"
+    },
+    "cuisines": "Burgers",
+    "location": {
+      "latitude": "22.1312917",
+      "longitude": "-100.93719"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "Hamburguesas Valle Dorado"
+  },
+  {
+    "_id": "132861",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express, bank_debit_cards",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": "Av. V. Carranza"
+    },
+    "cuisines": "Burgers",
+    "location": {
+      "latitude": "22.1480965",
+      "longitude": "-101.0173"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Carls Jr"
+  },
+  {
+    "_id": "132862",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express, bank_debit_cards",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": "Av. V. Carranza"
+    },
+    "cuisines": "International",
+    "location": {
+      "latitude": "22.1506429",
+      "longitude": "-100.98701"
+    },
+    "parkingArragements": "valet parking",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "casual",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "none"
+    },
+    "placeName": "La Posada del Virrey"
+  },
+  {
+    "_id": "132866",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": "Ricardo B. Anaya"
+    },
+    "cuisines": "Bakery, Cafeteria",
+    "location": {
+      "latitude": "22.1412198",
+      "longitude": "-100.93131"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Chaires"
+  },
+  {
+    "_id": "132869",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": "Ricardo B. Anaya"
+    },
+    "cuisines": "Pizzeria",
+    "location": {
+      "latitude": "22.1412384",
+      "longitude": "-100.92393"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Dominos Pizza"
+  },
+  {
+    "_id": "132870",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": "Ricardo B. Anaya"
+    },
+    "cuisines": "Burgers",
+    "location": {
+      "latitude": "22.1430781",
+      "longitude": "-100.93548"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Tortas y hamburguesas el gordo"
+  },
+  {
+    "_id": "132872",
+    "acceptedPaymentModes": "cash, bank_debit_cards",
+    "address": {
+      "city": "s.l.p",
+      "country": "Mexico",
+      "state": "mexico",
+      "street": ""
+    },
+    "cuisines": "American",
+    "location": {
+      "latitude": "22.1735955",
+      "longitude": "-100.9946"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "partially",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Pizzeria Julios"
+  },
+  {
+    "_id": "132875",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express, bank_debit_cards",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "Japanese",
+    "location": {
+      "latitude": "22.1499013",
+      "longitude": "-100.99378"
+    },
+    "parkingArragements": "valet parking",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "open",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "Internet",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "shi ro ie"
+  },
+  {
+    "_id": "132877",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.1353639",
+      "longitude": "-100.93495"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "sirloin stockade"
+  },
+  {
+    "_id": "132884",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.1395776",
+      "longitude": "-101.02789"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "dairy queen"
+  },
+  {
+    "_id": "132885",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": "Av. Saan Luis enttre moctezuma y salinas"
+    },
+    "cuisines": "Cafeteria",
+    "location": {
+      "latitude": "22.1795169",
+      "longitude": "-100.95844"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "Hamburguesas saul"
+  },
+  {
+    "_id": "132921",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "Bar",
+    "location": {
+      "latitude": "22.150305",
+      "longitude": "-100.98913"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "Wine-Beer",
+      "area": "open",
+      "dressCode": "casual",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "section"
+    },
+    "placeName": "crudalia"
+  },
+  {
+    "_id": "132922",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "Cafeteria",
+    "location": {
+      "latitude": "22.1511348",
+      "longitude": "-100.98231"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "formal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "permitted"
+    },
+    "placeName": "cafe punta del cielo"
+  },
+  {
+    "_id": "132925",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "22.1534997",
+      "longitude": "-100.97624"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "el pueblito"
+  },
+  {
+    "_id": "132937",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "san luis potosi",
+      "country": "Mexico",
+      "state": "san luis potosi",
+      "street": "agustin de iturbide"
+    },
+    "cuisines": "Bar",
+    "location": {
+      "latitude": "22.1500193",
+      "longitude": "-100.97992"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "Full_Bar",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "variety",
+      "price": "low",
+      "smokingArea": "section"
+    },
+    "placeName": "rockabilly"
+  },
+  {
+    "_id": "132951",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": "NICOLAS ZAPATA 300"
+    },
+    "cuisines": "American",
+    "location": {
+      "latitude": "22.1544736",
+      "longitude": "-100.98581"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "casual",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "VIPS"
+  },
+  {
+    "_id": "132954",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, bank_debit_cards",
+    "address": {
+      "city": "san luis potosi",
+      "country": "Mexico",
+      "state": "san luis potosi",
+      "street": "venustiano carranza"
+    },
+    "cuisines": "Breakfast-Brunch",
+    "location": {
+      "latitude": "22.1603808",
+      "longitude": "-100.98804"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "partially",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "la parroquia"
+  },
+  {
+    "_id": "132955",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, bank_debit_cards, Carte_Blanche",
+    "address": {
+      "city": "san luis potos",
+      "country": "Mexico",
+      "state": "mexico",
+      "street": "venustiano carranza"
+    },
+    "cuisines": "Bar_Pub_Brewery",
+    "location": {
+      "latitude": "22.147622",
+      "longitude": "-101.01027"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "variety",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "emilianos"
+  },
+  {
+    "_id": "132958",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express, bank_debit_cards",
+    "address": {
+      "city": "san luis potosi",
+      "country": "Mexico",
+      "state": "san luis potos",
+      "street": "avenida hivno nacional"
+    },
+    "cuisines": "American",
+    "location": {
+      "latitude": "22.1449787",
+      "longitude": "-101.00568"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "tacos los volcanes"
+  },
+  {
+    "_id": "134975",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, Discover",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "18.940828",
+      "longitude": "-99.215426"
+    },
+    "parkingArragements": "valet parking",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "Full_Bar",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "variety",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "Rincon del Bife"
+  },
+  {
+    "_id": "134976",
+    "acceptedPaymentModes": "VISA, MasterCard-Eurocard, American_Express, checks",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "Mexican, Mediterranean, Burgers",
+    "location": {
+      "latitude": "18.916654",
+      "longitude": "-99.22711"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "Log Yin"
+  },
+  {
+    "_id": "134983",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Domingo 10 711 El Empleado"
+    },
+    "cuisines": "Bar, Bar_Pub_Brewery",
+    "location": {
+      "latitude": "18.948657",
+      "longitude": "-99.235361"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Full_Bar",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "Restaurant and Bar and Clothesline Carlos N Charlies"
+  },
+  {
+    "_id": "134986",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Ricardo Linares 107"
+    },
+    "cuisines": "International",
+    "location": {
+      "latitude": "18.928798",
+      "longitude": "-99.239513"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "formal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurant Las Mananitas"
+  },
+  {
+    "_id": "134987",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Rio Mayo Colonia Vista Hermosa Esq. Rio Balsas"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "18.932725",
+      "longitude": "-99.225211"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Chilis Cuernavaca"
+  },
+  {
+    "_id": "134992",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "La Pradera"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "18.936683",
+      "longitude": "-99.247366"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "casual",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "Restaurant Teely"
+  },
+  {
+    "_id": "134996",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Lomas del Mirador"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "18.923429",
+      "longitude": "-99.216413"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "Internet",
+      "price": "medium",
+      "smokingArea": "only at bar"
+    },
+    "placeName": "Sanborns Casa Piedra"
+  },
+  {
+    "_id": "134999",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Revolucion"
+    },
+    "cuisines": "Japanese",
+    "location": {
+      "latitude": "18.915421",
+      "longitude": "-99.184871"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Kiku Cuernavaca"
+  },
+  {
+    "_id": "135000",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Federal Mexico - Acapulco 10 3 de Mayo"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "18.870565",
+      "longitude": "-99.226938"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurant los Pinos"
+  },
+  {
+    "_id": "135001",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Emiliano Zapata No. 825 Tlaltenongo"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "18.941859",
+      "longitude": "-99.241927"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Vips"
+  },
+  {
+    "_id": "135011",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Jiutepec",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "36 Sur Civac"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "18.91061",
+      "longitude": "-99.169539"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Los Vikingos"
+  },
+  {
+    "_id": "135013",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Jiutepec",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "40 Norte Civac 1RA. Seccion"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "18.917441",
+      "longitude": "-99.165945"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "Giovannis"
+  },
+  {
+    "_id": "135016",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "69 Tres De Mayo"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "18.869347",
+      "longitude": "-99.209944"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Arrachela Grill"
+  },
+  {
+    "_id": "135018",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, bank_debit_cards",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Libramiento Burgos Colonia Las Animas"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "18.859803",
+      "longitude": "-99.222164"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "Full_Bar",
+      "area": "open",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "variety",
+      "price": "medium",
+      "smokingArea": "permitted"
+    },
+    "placeName": "El Oceano Dorado"
+  },
+  {
+    "_id": "135019",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "Jiutepec",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Paseo de Las Fuentes 24 Pedregal de Las Fuentes"
+    },
+    "cuisines": "Bar",
+    "location": {
+      "latitude": "18.875011",
+      "longitude": "-99.159422"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurant Bar Coty y Pablo"
+  },
+  {
+    "_id": "135021",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Rio Mayo 17 Vista Hermosa"
+    },
+    "cuisines": "Fast_Food",
+    "location": {
+      "latitude": "18.933537",
+      "longitude": "-99.222497"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Subway"
+  },
+  {
+    "_id": "135025",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "1a. de Lozada 1"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "22.14955",
+      "longitude": "-100.97797"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "El Rincon de San Francisco"
+  },
+  {
+    "_id": "135026",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Capitan Caldera No. 420 Tequisqueapan"
+    },
+    "cuisines": "Bar, Bar_Pub_Brewery",
+    "location": {
+      "latitude": "22.148665",
+      "longitude": "-101.00127"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Full_Bar",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "none"
+    },
+    "placeName": "la Cantina"
+  },
+  {
+    "_id": "135027",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Pascual M. Hernandez 240"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "22.147145",
+      "longitude": "-100.97449"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurant Orizatlan"
+  },
+  {
+    "_id": "135028",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Av. Carranza 830"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "22.146658",
+      "longitude": "-100.98722"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "La Virreina"
+  },
+  {
+    "_id": "135030",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Anahuac 805"
+    },
+    "cuisines": "Cafe-Coffee_Shop, Cafeteria",
+    "location": {
+      "latitude": "22.14788",
+      "longitude": "-100.98947"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "Internet",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Preambulo Wifi Zone Cafe"
+  },
+  {
+    "_id": "135032",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Constitucion 200 Centro"
+    },
+    "cuisines": "Cafeteria, Contemporary",
+    "location": {
+      "latitude": "22.152481",
+      "longitude": "-100.97349"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "section"
+    },
+    "placeName": "Cafeteria y Restaurant El Pacifico"
+  },
+  {
+    "_id": "135033",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "De Guadalupe 460 San Miguelito"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.14161",
+      "longitude": "-100.97314"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "section"
+    },
+    "placeName": "Restaurant El Muladar de Calzada"
+  },
+  {
+    "_id": "135034",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Cordillera de Los Alpes 160 Lomas 2 Seccion"
+    },
+    "cuisines": "Japanese",
+    "location": {
+      "latitude": "22.140517",
+      "longitude": "-101.02142"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Michiko Restaurant Japones"
+  },
+  {
+    "_id": "135035",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Rio Papaloapan 265 Lomas de San Luis (3)"
+    },
+    "cuisines": "Italian",
+    "location": {
+      "latitude": "22.145813",
+      "longitude": "-101.01803"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "El Mundo de la Pasta"
+  },
+  {
+    "_id": "135038",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Guajardo Sn San Luis Potosi Centro"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.155651",
+      "longitude": "-100.97777"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "section"
+    },
+    "placeName": "Restaurant la Chalita"
+  },
+  {
+    "_id": "135039",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Miguel Barragan 46 Centro"
+    },
+    "cuisines": "Seafood",
+    "location": {
+      "latitude": "22.145893",
+      "longitude": "-100.97487"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "section"
+    },
+    "placeName": "Restaurant de Mariscos de Picon"
+  },
+  {
+    "_id": "135040",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Camino a Simon Diaz 155 Centro"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.135617",
+      "longitude": "-100.96971"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurant los Compadres"
+  },
+  {
+    "_id": "135041",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Francisco I. Madero 215"
+    },
+    "cuisines": "Bar, Cafeteria",
+    "location": {
+      "latitude": "22.15106",
+      "longitude": "-100.97766"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Luna Cafe"
+  },
+  {
+    "_id": "135042",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Tangamanga 7 Tangamanga"
+    },
+    "cuisines": "Chinese",
+    "location": {
+      "latitude": "22.159357",
+      "longitude": "-100.97341"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurant Oriental Express"
+  },
+  {
+    "_id": "135043",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Soledad",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "524 Soledad de Graciano Sanchez"
+    },
+    "cuisines": "Fast_Food, Pizzeria",
+    "location": {
+      "latitude": "22.185756",
+      "longitude": "-100.94452"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "pizza clasica"
+  },
+  {
+    "_id": "135044",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Himno Nacional 100 Avenida"
+    },
+    "cuisines": "Chinese",
+    "location": {
+      "latitude": "22.141848",
+      "longitude": "-100.99748"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurant Wu Zhuo Yi"
+  },
+  {
+    "_id": "135045",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Venustiano Carranza 560 Centro"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.151189",
+      "longitude": "-100.98179"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "casual",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante la Gran Via"
+  },
+  {
+    "_id": "135046",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Agricultura 595 del Valle"
+    },
+    "cuisines": "Fast_Food",
+    "location": {
+      "latitude": "22.141282",
+      "longitude": "-101.00296"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante El Reyecito"
+  },
+  {
+    "_id": "135047",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "General Mariano Arista 1205 Barrio de Tequisquiap"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.150921",
+      "longitude": "-100.99383"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "Restaurante Casa de las Flores"
+  },
+  {
+    "_id": "135048",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Jesus Goytortua 390 Tangamanga"
+    },
+    "cuisines": "Bar",
+    "location": {
+      "latitude": "22.142017",
+      "longitude": "-100.99925"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante Bar Fu-hao"
+  },
+  {
+    "_id": "135049",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Cordillera de Los Alpes 675 Loma Verde"
+    },
+    "cuisines": "Seafood",
+    "location": {
+      "latitude": "22.135011",
+      "longitude": "-101.0286"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante de Mariscos la Langosta"
+  },
+  {
+    "_id": "135050",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "Soledad",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Soledad Sn Arboledas de Soledad"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.174887",
+      "longitude": "-100.97083"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante la Estrella de Dima"
+  },
+  {
+    "_id": "135051",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Francisco I. Madero 145 Centro"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.151189",
+      "longitude": "-100.97706"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "section"
+    },
+    "placeName": "Restaurante Versalles"
+  },
+  {
+    "_id": "135052",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Ignacio Aldama 300 Centro"
+    },
+    "cuisines": "Bar, Bar_Pub_Brewery",
+    "location": {
+      "latitude": "22.150981",
+      "longitude": "-100.97741"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Full_Bar",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "none"
+    },
+    "placeName": "La Cantina Restaurante"
+  },
+  {
+    "_id": "135053",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Satelite 606 Satelite"
+    },
+    "cuisines": "Cafeteria, Fast_Food, Pizzeria",
+    "location": {
+      "latitude": "22.178931",
+      "longitude": "-101.01286"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "La Fontana Pizza Restaurante and Cafe"
+  },
+  {
+    "_id": "135054",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Ricardo B. Anaya 2700 Estrella de Oriente"
+    },
+    "cuisines": "Seafood",
+    "location": {
+      "latitude": "22.140626",
+      "longitude": "-100.91566"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante y Pescaderia Tampico"
+  },
+  {
+    "_id": "135055",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Venustiano Carranza 2175 Jardin"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "22.148854",
+      "longitude": "-101.00847"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "la Cochinita Pibil Restaurante Yucateco"
+  },
+  {
+    "_id": "135057",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Costado Sur Central Camionera Km 2"
+    },
+    "cuisines": "Bar",
+    "location": {
+      "latitude": "22.145992",
+      "longitude": "-100.95512"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "section"
+    },
+    "placeName": "El Herradero Restaurante and Bar"
+  },
+  {
+    "_id": "135058",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Munoz Sn Centro"
+    },
+    "cuisines": "Pizzeria",
+    "location": {
+      "latitude": "22.165587",
+      "longitude": "-101.00127"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante Tiberius"
+  },
+  {
+    "_id": "135059",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Santos Degollado 745 los Alamitos"
+    },
+    "cuisines": "Bar",
+    "location": {
+      "latitude": "22.145108",
+      "longitude": "-100.98955"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "section"
+    },
+    "placeName": "Restaurant Bar Hacienda los Martinez"
+  },
+  {
+    "_id": "135060",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Ignacio Allende 785 Centro"
+    },
+    "cuisines": "Seafood",
+    "location": {
+      "latitude": "22.156883",
+      "longitude": "-100.97849"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante Marisco Sam"
+  },
+  {
+    "_id": "135062",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Julian de Los Reyes 400 Centro"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.153703",
+      "longitude": "-100.97903"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante El Cielo Potosino"
+  },
+  {
+    "_id": "135063",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Alhondiga 62 Centro"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.156724",
+      "longitude": "-100.97556"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante Alhondiga"
+  },
+  {
+    "_id": "135064",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Angel Veral 328 Altamira"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.154687",
+      "longitude": "-100.99662"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante El Chivero S.A. de C.V."
+  },
+  {
+    "_id": "135065",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Venustiano Carranza 1625 Jardin"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.14958",
+      "longitude": "-100.99956"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "El angel Restaurante"
+  },
+  {
+    "_id": "135066",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "20 de Noviembre 1817 Tlaxcala"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.16835",
+      "longitude": "-100.97247"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "Restaurante Guerra"
+  },
+  {
+    "_id": "135069",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Industrias 908 Valle Dorado"
+    },
+    "cuisines": "Bar",
+    "location": {
+      "latitude": "22.140129",
+      "longitude": "-100.94487"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "Abondance Restaurante Bar"
+  },
+  {
+    "_id": "135070",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Villa de Pozos 4497 Villa de Pozos"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.152918",
+      "longitude": "-100.91516"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante 75"
+  },
+  {
+    "_id": "135071",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "De La Estrella 2005 Estrella de Oriente"
+    },
+    "cuisines": "Bar, Bar_Pub_Brewery",
+    "location": {
+      "latitude": "22.126375",
+      "longitude": "-100.91093"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Full_Bar",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "section"
+    },
+    "placeName": "Restaurante la Cantina"
+  },
+  {
+    "_id": "135072",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Venustiano Carranza 1809 C Polanco"
+    },
+    "cuisines": "Japanese",
+    "location": {
+      "latitude": "22.149192",
+      "longitude": "-101.00294"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Sushi Itto"
+  },
+  {
+    "_id": "135073",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Pascual M. Hernandez 210 Centro"
+    },
+    "cuisines": "Bar, Bar_Pub_Brewery",
+    "location": {
+      "latitude": "22.147175",
+      "longitude": "-100.97427"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "Restaurante Bar El Gallinero"
+  },
+  {
+    "_id": "135074",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Venustiano Carranza 303 Centro"
+    },
+    "cuisines": "Contemporary",
+    "location": {
+      "latitude": "22.149689",
+      "longitude": "-100.99953"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "Restaurante la Parroquia Potosina"
+  },
+  {
+    "_id": "135075",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Himno Nacional 2104 Tangamanga"
+    },
+    "cuisines": "Seafood",
+    "location": {
+      "latitude": "22.139573",
+      "longitude": "-100.99156"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "Mariscos El Pescador"
+  },
+  {
+    "_id": "135076",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Mexico 2015 Providencia"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.181017",
+      "longitude": "-100.97361"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "none"
+    },
+    "placeName": "Restaurante Pueblo Bonito"
+  },
+  {
+    "_id": "135079",
+    "acceptedPaymentModes": "cash, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Nereo Rodriguez Barragan 450 E Centro"
+    },
+    "cuisines": "Chinese",
+    "location": {
+      "latitude": "22.156376",
+      "longitude": "-100.99836"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "none"
+    },
+    "placeName": "Koye Sushi"
+  },
+  {
+    "_id": "135080",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard, American_Express",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Estatuto Juridico 1040 Burocratas"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.145008",
+      "longitude": "-100.99797"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "high",
+      "smokingArea": "section"
+    },
+    "placeName": "los Toneles"
+  },
+  {
+    "_id": "135081",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Mexico 810 Centro"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.164842",
+      "longitude": "-100.96049"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "El Club"
+  },
+  {
+    "_id": "135082",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Villa de Pozos 192 Villa de Pozos"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.151448",
+      "longitude": "-100.9151"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "none"
+    },
+    "placeName": "la Estrella de Dimas"
+  },
+  {
+    "_id": "135085",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Venustiano Carranza 719 Centro"
+    },
+    "cuisines": "Fast_Food",
+    "location": {
+      "latitude": "22.150802",
+      "longitude": "-100.98268"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Tortas Locas Hipocampo"
+  },
+  {
+    "_id": "135086",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "SLP",
+      "street": "Lateral Salvador Nava Martinez 3145"
+    },
+    "cuisines": "Burgers, Fast_Food",
+    "location": {
+      "latitude": "22.141421",
+      "longitude": "-101.01396"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Mcdonalds Parque Tangamanga"
+  },
+  {
+    "_id": "135088",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "state": "Morelos",
+      "street": "Interior Internado Palmira SN"
+    },
+    "cuisines": "Cafeteria",
+    "location": {
+      "latitude": "18.8760113",
+      "longitude": "-99.21989"
+    },
+    "parkingArragements": "public",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Cafeteria cenidet"
+  },
+  {
+    "_id": "135104",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "23.7529821",
+      "longitude": "-99.168434"
+    },
+    "parkingArragements": "yes",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "Full_Bar",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "t",
+      "otherServices": "variety",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "vips"
+  },
+  {
+    "_id": "135106",
+    "acceptedPaymentModes": "cash, VISA, MasterCard-Eurocard",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "San Luis Potosi",
+      "street": "Universidad 169"
+    },
+    "cuisines": "Mexican",
+    "location": {
+      "latitude": "22.1497088",
+      "longitude": "-100.97609"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "partially",
+      "alcohol": "Wine-Beer",
+      "area": "open",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "medium",
+      "smokingArea": "only at bar"
+    },
+    "placeName": "El Rinc\u00f3n de San Francisco"
+  },
+  {
+    "_id": "135108",
+    "acceptedPaymentModes": "any",
+    "address": {
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "state": "",
+      "street": "Carretera Central Sn"
+    },
+    "cuisines": "",
+    "location": {
+      "latitude": "22.1362534",
+      "longitude": "-100.93359"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "completely",
+      "alcohol": "No_Alcohol_Served",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "none",
+      "price": "low",
+      "smokingArea": "none"
+    },
+    "placeName": "Potzocalli"
+  },
+  {
+    "_id": "135109",
+    "acceptedPaymentModes": "cash",
+    "address": {
+      "city": "",
+      "country": "Mexico",
+      "state": "",
+      "street": ""
+    },
+    "cuisines": "Italian",
+    "location": {
+      "latitude": "18.9217848",
+      "longitude": "-99.23535"
+    },
+    "parkingArragements": "none",
+    "placeFeatures": {
+      "accessibility": "no_accessibility",
+      "alcohol": "Wine-Beer",
+      "area": "closed",
+      "dressCode": "informal",
+      "franchise": "f",
+      "otherServices": "Internet",
+      "price": "medium",
+      "smokingArea": "not permitted"
+    },
+    "placeName": "Paniroles"
+  }
+]

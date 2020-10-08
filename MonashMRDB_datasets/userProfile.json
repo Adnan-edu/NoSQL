@@ -1,0 +1,4418 @@
+[
+  {
+    "_id": "1001",
+    "favCuisines": "American",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.139997",
+      "longitude": "-100.9788"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.77",
+      "maritalStatus": "single",
+      "weight": "69"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "black",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1002",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.150087",
+      "longitude": "-100.98333"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.87",
+      "maritalStatus": "single",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "red",
+      "interest": "technology",
+      "typeOfWorker": "hunter-ostentatious"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1003",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.119847",
+      "longitude": "-100.94653"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.69",
+      "maritalStatus": "single",
+      "weight": "60"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1004",
+    "favCuisines": "Bakery, Breakfast-Brunch, Japanese, Contemporary, Mexican, Bagels, Cafe-Coffee_Shop, Continental-European, Cafeteria",
+    "favPaymentMethod": "cash, bank_debit_cards",
+    "location": {
+      "latitude": "18.867",
+      "longitude": "-99.183"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1940",
+      "height": "1.53",
+      "maritalStatus": "single",
+      "weight": "44"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "green",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1005",
+    "favCuisines": "American",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.183477",
+      "longitude": "-100.95989"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1992",
+      "height": "1.69",
+      "maritalStatus": "single",
+      "weight": "65"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "black",
+      "interest": "none",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1006",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.15",
+      "longitude": "-100.983"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.8",
+      "maritalStatus": "single",
+      "weight": "75"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "TRUE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1007",
+    "favCuisines": "Family",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.118464",
+      "longitude": "-100.93826"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.59",
+      "maritalStatus": "single",
+      "weight": "60"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "purple",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "low",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1008",
+    "favCuisines": "Cafe-Coffee_Shop, Mexican, Juice, Hawaiian, Hot_Dogs, Latin_American, Korean, American, Cafeteria, Italian",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.122989",
+      "longitude": "-100.92381"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.72",
+      "maritalStatus": "single",
+      "weight": "68"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "green",
+      "interest": "technology",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "low",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1009",
+    "favCuisines": "Diner, Fast_Food, Family, Cafe-Coffee_Shop, Deli-Sandwiches, Cafeteria, Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.159427",
+      "longitude": "-100.99045"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.78",
+      "maritalStatus": "single",
+      "weight": "75"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "green",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1010",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.190889",
+      "longitude": "-100.99867"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1987",
+      "height": "1.67",
+      "maritalStatus": "married",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "green",
+      "interest": "technology",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1011",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.724972",
+      "longitude": "-99.152856"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.78",
+      "maritalStatus": "single",
+      "weight": "68"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "purple",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1012",
+    "favCuisines": "Latin_American",
+    "favPaymentMethod": "cash, bank_debit_cards",
+    "location": {
+      "latitude": "18.813348",
+      "longitude": "-99.243697"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1988",
+      "height": "1.84",
+      "maritalStatus": "single",
+      "weight": "98"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "red",
+      "interest": "technology",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1013",
+    "favCuisines": "Japanese",
+    "favPaymentMethod": "MasterCard-Eurocard, cash",
+    "location": {
+      "latitude": "22.174624",
+      "longitude": "-100.99387"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1982",
+      "height": "1.75",
+      "maritalStatus": "widow",
+      "weight": "80"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "retro",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1014",
+    "favCuisines": "Japanese, Fast_Food",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.751607",
+      "longitude": "-99.170108"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.69",
+      "maritalStatus": "single",
+      "weight": "53"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1015",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.12676",
+      "longitude": "-100.90521"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.67",
+      "maritalStatus": "single",
+      "weight": "87"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "black",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "TRUE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1016",
+    "favCuisines": "Cafe-Coffee_Shop, Contemporary, Regional, Fusion, Japanese, Portuguese, American, Indian-Pakistani, Eastern_European, Lebanese, Moroccan, Barbecue, Polynesian, Polish",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.156247",
+      "longitude": "-100.9774"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.67",
+      "maritalStatus": "single",
+      "weight": "70"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "green",
+      "interest": "eco-friendly",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1017",
+    "favCuisines": "Chinese",
+    "favPaymentMethod": "cash, VISA",
+    "location": {
+      "latitude": "18.952615",
+      "longitude": "-99.201616"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.79",
+      "maritalStatus": "single",
+      "weight": "79"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "orange",
+      "interest": "retro",
+      "typeOfWorker": "hunter-ostentatious"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1018",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.190949",
+      "longitude": "-100.9179"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Christian"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.83",
+      "maritalStatus": "single",
+      "weight": "65"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "formal",
+      "smoker": "TRUE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1019",
+    "favCuisines": "Family",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.153385",
+      "longitude": "-100.97529"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "59"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "purple",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1020",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash, bank_debit_cards",
+    "location": {
+      "latitude": "18.878189",
+      "longitude": "-99.222969"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1982",
+      "height": "1.68",
+      "maritalStatus": "single",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1021",
+    "favCuisines": "Pizzeria, Regional, Chinese, Burgers",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.730569",
+      "longitude": "-99.171883"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1984",
+      "height": "1.62",
+      "maritalStatus": "single",
+      "weight": "108"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "purple",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1022",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.146708",
+      "longitude": "-100.96436"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.54",
+      "maritalStatus": "single",
+      "weight": "46"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "purple",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1023",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.752943",
+      "longitude": "-99.166589"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1988",
+      "height": "1.79",
+      "maritalStatus": "single",
+      "weight": "103"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1024",
+    "favCuisines": "Afghan",
+    "favPaymentMethod": "",
+    "location": {
+      "latitude": "22.154021",
+      "longitude": "-100.97603"
+    },
+    "otherDemographics": {
+      "employment": "",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1930",
+      "height": "1.2",
+      "maritalStatus": "",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "yellow",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "",
+      "budget": "",
+      "dressPreference": "",
+      "smoker": "",
+      "transport": ""
+    }
+  },
+  {
+    "_id": "1025",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "",
+    "location": {
+      "latitude": "22.125603",
+      "longitude": "-100.90784"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.79",
+      "maritalStatus": "single",
+      "weight": "65"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "red",
+      "interest": "none",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1026",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash, bank_debit_cards",
+    "location": {
+      "latitude": "23.733",
+      "longitude": "-99.133"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.55",
+      "maritalStatus": "single",
+      "weight": "49"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "red",
+      "interest": "technology",
+      "typeOfWorker": "hunter-ostentatious"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1027",
+    "favCuisines": "cash",
+    "favPaymentMethod": "",
+    "location": {
+      "latitude": "22.16515",
+      "longitude": "-100.98702"
+    },
+    "otherDemographics": {
+      "employment": "Family",
+      "religion": "student"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.65",
+      "maritalStatus": "single",
+      "weight": "60"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "purple",
+      "interest": "retro",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "public",
+      "budget": "low",
+      "dressPreference": "no preference",
+      "smoker": "TRUE",
+      "transport": "Catholic"
+    }
+  },
+  {
+    "_id": "1028",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.752874",
+      "longitude": "-99.169242"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Christian"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.63",
+      "maritalStatus": "single",
+      "weight": "77"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1029",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.151796",
+      "longitude": "-100.98908"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "58"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "white",
+      "interest": "variety",
+      "typeOfWorker": "conformist"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "formal",
+      "smoker": "TRUE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1030",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "18.844818",
+      "longitude": "-99.182758"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.75",
+      "maritalStatus": "single",
+      "weight": "64"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "black",
+      "interest": "eco-friendly",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1031",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash, American_Express",
+    "location": {
+      "latitude": "23.735698",
+      "longitude": "-99.159851"
+    },
+    "otherDemographics": {
+      "employment": "unemployed",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1992",
+      "height": "1.6",
+      "maritalStatus": "married",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "white",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": ""
+    }
+  },
+  {
+    "_id": "1032",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.169184",
+      "longitude": "-100.98684"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.75",
+      "maritalStatus": "single",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1033",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.15",
+      "longitude": "-100.983"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "54"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "yellow",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1034",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.137178",
+      "longitude": "-101.01317"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.58",
+      "maritalStatus": "single",
+      "weight": "50"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "yellow",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1035",
+    "favCuisines": "Family",
+    "favPaymentMethod": "cash, VISA",
+    "location": {
+      "latitude": "18.839671",
+      "longitude": "-99.223897"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1985",
+      "height": "1.75",
+      "maritalStatus": "single",
+      "weight": "69"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "red",
+      "interest": "variety",
+      "typeOfWorker": "hunter-ostentatious"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "TRUE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1036",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.160572",
+      "longitude": "-100.98942"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.7",
+      "maritalStatus": "single",
+      "weight": "76"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1037",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.15031",
+      "longitude": "-100.90054"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.5",
+      "maritalStatus": "single",
+      "weight": "52"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1038",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.125786",
+      "longitude": "-100.94371"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1930",
+      "height": "1.83",
+      "maritalStatus": "single",
+      "weight": "97"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "no preference",
+      "smoker": "TRUE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1039",
+    "favCuisines": "Regional",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.738067",
+      "longitude": "-99.139906"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.73",
+      "maritalStatus": "single",
+      "weight": "83"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "yellow",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": ""
+    }
+  },
+  {
+    "_id": "1040",
+    "favCuisines": "Pizzeria",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "18.895187",
+      "longitude": "-99.18039"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1994",
+      "height": "1.64",
+      "maritalStatus": "single",
+      "weight": "73"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1041",
+    "favCuisines": "Contemporary",
+    "favPaymentMethod": "bank_debit_cards, cash, American_Express, VISA",
+    "location": {
+      "latitude": "18.935191",
+      "longitude": "-99.23624"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1985",
+      "height": "1.62",
+      "maritalStatus": "single",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "white",
+      "interest": "eco-friendly",
+      "typeOfWorker": "hunter-ostentatious"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1042",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "bank_debit_cards",
+    "location": {
+      "latitude": "18.925773",
+      "longitude": "-99.219589"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Christian"
+    },
+    "personalTraits": {
+      "birthYear": "1943",
+      "height": "1.4",
+      "maritalStatus": "single",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "yellow",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "high",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1043",
+    "favCuisines": "Latin_American",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.77103",
+      "longitude": "-99.167082"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.64",
+      "maritalStatus": "single",
+      "weight": "60"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "white",
+      "interest": "technology",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1044",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "VISA, bank_debit_cards, cash, MasterCard-Eurocard",
+    "location": {
+      "latitude": "18.95298",
+      "longitude": "-99.260789"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1969",
+      "height": "1.73",
+      "maritalStatus": "married",
+      "weight": "85"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "orange",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "TRUE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1045",
+    "favCuisines": "Middle_Eastern, Mexican, Mongolian, Moroccan",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.156724",
+      "longitude": "-100.98427"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Mormon"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "68"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "orange",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "high",
+      "dressPreference": "elegant",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1046",
+    "favCuisines": "Bar",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.144415",
+      "longitude": "-100.9331"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.84",
+      "maritalStatus": "single",
+      "weight": "82"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "black",
+      "interest": "retro",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1047",
+    "favCuisines": "American",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.142429",
+      "longitude": "-100.94915"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1992",
+      "height": "1.63",
+      "maritalStatus": "single",
+      "weight": "60"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "purple",
+      "interest": "retro",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1048",
+    "favCuisines": "cash",
+    "favPaymentMethod": "",
+    "location": {
+      "latitude": "22.142208",
+      "longitude": "-101.02279"
+    },
+    "otherDemographics": {
+      "employment": "Mexican",
+      "religion": "student"
+    },
+    "personalTraits": {
+      "birthYear": "1988",
+      "height": "1.7",
+      "maritalStatus": "single",
+      "weight": "65"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "green",
+      "interest": "eco-friendly",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "public",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "TRUE",
+      "transport": "none"
+    }
+  },
+  {
+    "_id": "1049",
+    "favCuisines": "cash",
+    "favPaymentMethod": "",
+    "location": {
+      "latitude": "22.15",
+      "longitude": "-100.983"
+    },
+    "otherDemographics": {
+      "employment": "Mexican",
+      "religion": "student"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "55"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "public",
+      "budget": "FALSE",
+      "dressPreference": "solitary",
+      "smoker": "informal",
+      "transport": "none"
+    }
+  },
+  {
+    "_id": "1050",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.758815",
+      "longitude": "-99.171216"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.71",
+      "maritalStatus": "single",
+      "weight": "73"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "green",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1051",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "VISA, cash",
+    "location": {
+      "latitude": "18.877719",
+      "longitude": "-99.22299"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1979",
+      "height": "1.76",
+      "maritalStatus": "single",
+      "weight": "74"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1052",
+    "favCuisines": "Bakery",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.138055",
+      "longitude": "-100.93601"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.8",
+      "maritalStatus": "single",
+      "weight": "85"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "conformist"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "no preference",
+      "smoker": "TRUE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1053",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.175833",
+      "longitude": "-100.98667"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.72",
+      "maritalStatus": "single",
+      "weight": "66"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "red",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1054",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.150683",
+      "longitude": "-100.97534"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1992",
+      "height": "1.7",
+      "maritalStatus": "single",
+      "weight": "59"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1055",
+    "favCuisines": "Breakfast-Brunch",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.143289",
+      "longitude": "-100.98768"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1952",
+      "height": "1.66",
+      "maritalStatus": "married",
+      "weight": "70"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1056",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.168997",
+      "longitude": "-100.97438"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1930",
+      "height": "1.62",
+      "maritalStatus": "single",
+      "weight": "61"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "yellow",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1057",
+    "favCuisines": "American",
+    "favPaymentMethod": "cash, VISA",
+    "location": {
+      "latitude": "22.196624",
+      "longitude": "-100.91217"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.83",
+      "maritalStatus": "single",
+      "weight": "69"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "yellow",
+      "interest": "technology",
+      "typeOfWorker": "hunter-ostentatious"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "TRUE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1058",
+    "favCuisines": "Cuban",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.205802",
+      "longitude": "-100.98608"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.78",
+      "maritalStatus": "single",
+      "weight": "74"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "red",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1059",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "18.988278",
+      "longitude": "-99.097023"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1987",
+      "height": "1.69",
+      "maritalStatus": "single",
+      "weight": "57"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1060",
+    "favCuisines": "Burgers, Cafeteria, Pizzeria, Juice, American, Tex-Mex, Spanish, Mexican, Fast_Food, Cafe-Coffee_Shop, Soup, Hot_Dogs, Italian",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.715238",
+      "longitude": "-99.158864"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.84",
+      "maritalStatus": "single",
+      "weight": "82"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1061",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash, bank_debit_cards",
+    "location": {
+      "latitude": "22.140388",
+      "longitude": "-100.93732"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.76",
+      "maritalStatus": "single",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1062",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "VISA, cash",
+    "location": {
+      "latitude": "22.195826",
+      "longitude": "-101.00632"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1985",
+      "height": "1.68",
+      "maritalStatus": "single",
+      "weight": "88"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "yellow",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1063",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.745096",
+      "longitude": "-99.164357"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1988",
+      "height": "1.78",
+      "maritalStatus": "single",
+      "weight": "80"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "red",
+      "interest": "eco-friendly",
+      "typeOfWorker": "conformist"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1064",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.139511",
+      "longitude": "-100.957"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.77",
+      "maritalStatus": "single",
+      "weight": "94"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "hunter-ostentatious"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1065",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.733665",
+      "longitude": "-99.105617"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.72",
+      "maritalStatus": "single",
+      "weight": "55"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "green",
+      "interest": "technology",
+      "typeOfWorker": "conformist"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1066",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash, bank_debit_cards",
+    "location": {
+      "latitude": "18.890695",
+      "longitude": "-99.157104"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1986",
+      "height": "1.45",
+      "maritalStatus": "single",
+      "weight": "45"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "green",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "low",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1067",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.752269",
+      "longitude": "-99.168605"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Christian"
+    },
+    "personalTraits": {
+      "birthYear": "1987",
+      "height": "1.73",
+      "maritalStatus": "single",
+      "weight": "92"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "green",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1068",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.752269",
+      "longitude": "-99.168605"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1988",
+      "height": "1.57",
+      "maritalStatus": "single",
+      "weight": "72"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1069",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "MasterCard-Eurocard, cash",
+    "location": {
+      "latitude": "19.347641",
+      "longitude": "-99.130229"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1983",
+      "height": "1.56",
+      "maritalStatus": "single",
+      "weight": "60"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "black",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1070",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.753237",
+      "longitude": "-99.166868"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "47"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "green",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1071",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.154339",
+      "longitude": "-100.97534"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1930",
+      "height": "1.73",
+      "maritalStatus": "single",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "hunter-ostentatious"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "high",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1072",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "bank_debit_cards, cash",
+    "location": {
+      "latitude": "18.86826",
+      "longitude": "-99.212033"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Christian"
+    },
+    "personalTraits": {
+      "birthYear": "1984",
+      "height": "1.54",
+      "maritalStatus": "single",
+      "weight": "50"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "red",
+      "interest": "eco-friendly",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1073",
+    "favCuisines": "American",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.15",
+      "longitude": "-100.983"
+    },
+    "otherDemographics": {
+      "employment": "unemployed",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.79",
+      "maritalStatus": "widow",
+      "weight": "118"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "yellow",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1074",
+    "favCuisines": "Sushi",
+    "favPaymentMethod": "bank_debit_cards, cash",
+    "location": {
+      "latitude": "18.917",
+      "longitude": "-99.25"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1967",
+      "height": "1.7",
+      "maritalStatus": "single",
+      "weight": "68"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "black",
+      "interest": "eco-friendly",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "TRUE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1075",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.167575",
+      "longitude": "-100.96036"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "68"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "white",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1076",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "VISA, cash, bank_debit_cards",
+    "location": {
+      "latitude": "22.156469",
+      "longitude": "-100.98554"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1987",
+      "height": "1.71",
+      "maritalStatus": "married",
+      "weight": "65"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "elegant",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1077",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "VISA, cash, bank_debit_cards",
+    "location": {
+      "latitude": "22.156469",
+      "longitude": "-100.98554"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1987",
+      "height": "1.71",
+      "maritalStatus": "married",
+      "weight": "65"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "elegant",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1078",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "VISA, bank_debit_cards, cash",
+    "location": {
+      "latitude": "22.172109",
+      "longitude": "-100.9632"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1983",
+      "height": "1.69",
+      "maritalStatus": "single",
+      "weight": "69"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "TRUE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1079",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "18.917",
+      "longitude": "-99.25"
+    },
+    "otherDemographics": {
+      "employment": "",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1992",
+      "height": "1.55",
+      "maritalStatus": "single",
+      "weight": "53"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "black",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1080",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.743793",
+      "longitude": "-99.163397"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1987",
+      "height": "1.82",
+      "maritalStatus": "single",
+      "weight": "80"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "white",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "formal",
+      "smoker": "TRUE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1081",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.207749",
+      "longitude": "-100.94238"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.54",
+      "maritalStatus": "single",
+      "weight": "52"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "green",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1082",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.753061",
+      "longitude": "-99.166095"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.69",
+      "maritalStatus": "single",
+      "weight": "63"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "black",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "TRUE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1083",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.13392",
+      "longitude": "-101.02837"
+    },
+    "otherDemographics": {
+      "employment": "",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1981",
+      "height": "1.6",
+      "maritalStatus": "",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "yellow",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "",
+      "budget": "",
+      "dressPreference": "",
+      "smoker": "FALSE",
+      "transport": ""
+    }
+  },
+  {
+    "_id": "1084",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.172524",
+      "longitude": "-101.00576"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "65"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "red",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "TRUE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1085",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.196787",
+      "longitude": "-100.93634"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1988",
+      "height": "1.7",
+      "maritalStatus": "single",
+      "weight": "84"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "black",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1086",
+    "favCuisines": "Italian",
+    "favPaymentMethod": "VISA, bank_debit_cards, cash",
+    "location": {
+      "latitude": "22.157281",
+      "longitude": "-100.98444"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.59",
+      "maritalStatus": "single",
+      "weight": "49"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "red",
+      "interest": "variety",
+      "typeOfWorker": "hunter-ostentatious"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1087",
+    "favCuisines": "Chinese",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.753336",
+      "longitude": "-99.167984"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.55",
+      "maritalStatus": "single",
+      "weight": "53"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "black",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1088",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "",
+    "location": {
+      "latitude": "22.142748",
+      "longitude": "-100.94066"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "62"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1089",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.162562",
+      "longitude": "-100.99313"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "54"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "white",
+      "interest": "variety",
+      "typeOfWorker": "conformist"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "informal",
+      "smoker": "TRUE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1090",
+    "favCuisines": "Tex-Mex",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.158473",
+      "longitude": "-100.98427"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1988",
+      "height": "1.54",
+      "maritalStatus": "single",
+      "weight": "50"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1091",
+    "favCuisines": "American, Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.154677",
+      "longitude": "-100.94901"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.7",
+      "maritalStatus": "single",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "red",
+      "interest": "eco-friendly",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1092",
+    "favCuisines": "Game",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.125365",
+      "longitude": "-100.94789"
+    },
+    "otherDemographics": {
+      "employment": "",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.69",
+      "maritalStatus": "single",
+      "weight": "70"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "red",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1093",
+    "favCuisines": "Japanese",
+    "favPaymentMethod": "American_Express, VISA",
+    "location": {
+      "latitude": "18.871654",
+      "longitude": "-99.183251"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.67",
+      "maritalStatus": "single",
+      "weight": "80"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "TRUE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1094",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.73944",
+      "longitude": "-99.160548"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.71",
+      "maritalStatus": "single",
+      "weight": "59"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "green",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1095",
+    "favCuisines": "Italian",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.179865",
+      "longitude": "-101.01855"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1986",
+      "height": "1.65",
+      "maritalStatus": "married",
+      "weight": "65"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1096",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.1455",
+      "longitude": "-100.93959"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.2",
+      "maritalStatus": "single",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "black",
+      "interest": "eco-friendly",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1097",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.145471",
+      "longitude": "-100.93959"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.64",
+      "maritalStatus": "single",
+      "weight": "58"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "black",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1098",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.182571",
+      "longitude": "-100.96323"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.76",
+      "maritalStatus": "single",
+      "weight": "68"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "green",
+      "interest": "none",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1099",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash, VISA",
+    "location": {
+      "latitude": "22.184862",
+      "longitude": "-100.97054"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "2",
+      "maritalStatus": "single",
+      "weight": "70"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "purple",
+      "interest": "technology",
+      "typeOfWorker": "conformist"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "high",
+      "dressPreference": "informal",
+      "smoker": "TRUE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1100",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "18.879729",
+      "longitude": "-99.067106"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Christian"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.65",
+      "maritalStatus": "single",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "black",
+      "interest": "eco-friendly",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1101",
+    "favCuisines": "Chinese, Italian, Doughnuts, Afghan, Mexican, Burgers, Latin_American, Contemporary, Cafe-Coffee_Shop, Family, Cafeteria, Bar, Australian, Hot_Dogs, Diner",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.150891",
+      "longitude": "-100.97489"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1988",
+      "height": "1.69",
+      "maritalStatus": "single",
+      "weight": "50"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "white",
+      "interest": "eco-friendly",
+      "typeOfWorker": "hunter-ostentatious"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1102",
+    "favCuisines": "Pizzeria",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.137131",
+      "longitude": "-100.94115"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.78",
+      "maritalStatus": "single",
+      "weight": "90"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "black",
+      "interest": "eco-friendly",
+      "typeOfWorker": "conformist"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1103",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash, bank_debit_cards",
+    "location": {
+      "latitude": "23.752265",
+      "longitude": "-99.16859"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "Jewish"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.9",
+      "maritalStatus": "single",
+      "weight": "120"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "green",
+      "interest": "technology",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1104",
+    "favCuisines": "Italian",
+    "favPaymentMethod": "VISA, cash",
+    "location": {
+      "latitude": "22.149005",
+      "longitude": "-100.97815"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.71",
+      "maritalStatus": "single",
+      "weight": "75"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "hunter-ostentatious"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "TRUE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1105",
+    "favCuisines": "Cafeteria",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.120019",
+      "longitude": "-100.95099"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Christian"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.74",
+      "maritalStatus": "single",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "green",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1106",
+    "favCuisines": "Barbecue",
+    "favPaymentMethod": "bank_debit_cards, cash",
+    "location": {
+      "latitude": "18.927072",
+      "longitude": "-99.173584"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1930",
+      "height": "1.71",
+      "maritalStatus": "single",
+      "weight": "65"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1107",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "bank_debit_cards, cash",
+    "location": {
+      "latitude": "23.742409",
+      "longitude": "-99.171889"
+    },
+    "otherDemographics": {
+      "employment": "",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.79",
+      "maritalStatus": "single",
+      "weight": "87"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "high",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1108",
+    "favCuisines": "Cafe-Coffee_Shop, Sushi, Latin_American, Deli-Sandwiches, Mexican, Hot_Dogs, American, Fast_Food, Burgers, Asian, Pizzeria, Chinese, Dessert-Ice_Cream, Cafeteria, Japanese, Game, Family, Seafood",
+    "favPaymentMethod": "VISA, cash, MasterCard-Eurocard",
+    "location": {
+      "latitude": "22.143524",
+      "longitude": "-100.98756"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1983",
+      "height": "1.81",
+      "maritalStatus": "single",
+      "weight": "76"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1109",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.303308",
+      "longitude": "-101.05468"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.72",
+      "maritalStatus": "single",
+      "weight": "57"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "eco-friendly",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "low",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1110",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "18.871678",
+      "longitude": "-99.183263"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1993",
+      "height": "1.75",
+      "maritalStatus": "single",
+      "weight": "85"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "red",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1111",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.143078",
+      "longitude": "-100.90852"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.69",
+      "maritalStatus": "single",
+      "weight": "69"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "white",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "TRUE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1112",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.143078",
+      "longitude": "-100.90852"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.69",
+      "maritalStatus": "single",
+      "weight": "69"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "white",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "TRUE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1113",
+    "favCuisines": "Burgers",
+    "favPaymentMethod": "VISA, cash",
+    "location": {
+      "latitude": "22.137343",
+      "longitude": "-100.91394"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.73",
+      "maritalStatus": "single",
+      "weight": "75"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1114",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.177726",
+      "longitude": "-101.01409"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.68",
+      "maritalStatus": "single",
+      "weight": "58"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1115",
+    "favCuisines": "Regional",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.138127",
+      "longitude": "-100.92051"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.76",
+      "maritalStatus": "single",
+      "weight": "76"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "green",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "elegant",
+      "smoker": "TRUE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1116",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash, bank_debit_cards, VISA",
+    "location": {
+      "latitude": "22.156469",
+      "longitude": "-100.98554"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1987",
+      "height": "1.71",
+      "maritalStatus": "married",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1117",
+    "favCuisines": "Turkish",
+    "favPaymentMethod": "bank_debit_cards, cash",
+    "location": {
+      "latitude": "18.875641",
+      "longitude": "-99.220737"
+    },
+    "otherDemographics": {
+      "employment": "professional",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1982",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "58"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1118",
+    "favCuisines": "Pizzeria",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "18.940062",
+      "longitude": "-99.228172"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1987",
+      "height": "1.68",
+      "maritalStatus": "single",
+      "weight": "60"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "black",
+      "interest": "technology",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "TRUE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1119",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "18.96479",
+      "longitude": "-99.260017"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1992",
+      "height": "1.68",
+      "maritalStatus": "single",
+      "weight": "68"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "blue",
+      "interest": "eco-friendly",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1120",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.121857",
+      "longitude": "-100.90428"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1930",
+      "height": "1.57",
+      "maritalStatus": "single",
+      "weight": "47"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "green",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1121",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash, bank_debit_cards",
+    "location": {
+      "latitude": "18.871674",
+      "longitude": "-99.183253"
+    },
+    "otherDemographics": {
+      "employment": "working-class",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1987",
+      "height": "1.6",
+      "maritalStatus": "married",
+      "weight": "90"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "black",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1122",
+    "favCuisines": "Afghan",
+    "favPaymentMethod": "",
+    "location": {
+      "latitude": "22.169601",
+      "longitude": "-100.99182"
+    },
+    "otherDemographics": {
+      "employment": "",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1930",
+      "height": "1.2",
+      "maritalStatus": "",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "yellow",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "",
+      "budget": "",
+      "dressPreference": "",
+      "smoker": "",
+      "transport": ""
+    }
+  },
+  {
+    "_id": "1123",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.753112",
+      "longitude": "-99.168567"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1987",
+      "height": "1.75",
+      "maritalStatus": "single",
+      "weight": "110"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "green",
+      "interest": "technology",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": ""
+    }
+  },
+  {
+    "_id": "1124",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.137072",
+      "longitude": "-100.91887"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.2",
+      "maritalStatus": "single",
+      "weight": "51"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1125",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.19204",
+      "longitude": "-100.95694"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.67",
+      "maritalStatus": "single",
+      "weight": "57"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "white",
+      "interest": "technology",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1126",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.15421",
+      "longitude": "-100.94223"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.63",
+      "maritalStatus": "single",
+      "weight": "65"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "purple",
+      "interest": "technology",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1127",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "18.943935",
+      "longitude": "-99.206532"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1992",
+      "height": "1.76",
+      "maritalStatus": "single",
+      "weight": "65"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "black",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "solitary",
+      "budget": "low",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1128",
+    "favCuisines": "Cafeteria, Hot_Dogs, Pizzeria, Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.187236",
+      "longitude": "-100.99421"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1986",
+      "height": "1.72",
+      "maritalStatus": "single",
+      "weight": "66"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "red",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1129",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "23.728798",
+      "longitude": "-99.134047"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.69",
+      "maritalStatus": "single",
+      "weight": "69"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "purple",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1130",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "",
+    "location": {
+      "latitude": "23.733",
+      "longitude": "-99.133"
+    },
+    "otherDemographics": {
+      "employment": "",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.2",
+      "maritalStatus": "",
+      "weight": "40"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "yellow",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "",
+      "budget": "",
+      "dressPreference": "",
+      "smoker": "",
+      "transport": ""
+    }
+  },
+  {
+    "_id": "1131",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.138245",
+      "longitude": "-100.91095"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.8",
+      "maritalStatus": "married",
+      "weight": "90"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "black",
+      "interest": "eco-friendly",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "TRUE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1132",
+    "favCuisines": "cash",
+    "favPaymentMethod": "",
+    "location": {
+      "latitude": "22.15",
+      "longitude": "-100.983"
+    },
+    "otherDemographics": {
+      "employment": "Mexican",
+      "religion": "student"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "55"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "blue",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "public",
+      "budget": "FALSE",
+      "dressPreference": "solitary",
+      "smoker": "informal",
+      "transport": "none"
+    }
+  },
+  {
+    "_id": "1133",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "bank_debit_cards, cash",
+    "location": {
+      "latitude": "18.886698",
+      "longitude": "-99.114979"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.57",
+      "maritalStatus": "single",
+      "weight": "60"
+    },
+    "personality": {
+      "drinkLevel": "abstemious",
+      "favColor": "orange",
+      "interest": "none",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1134",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.149654",
+      "longitude": "-100.99861"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.65",
+      "maritalStatus": "single",
+      "weight": "52"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "black",
+      "interest": "variety",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "medium",
+      "dressPreference": "no preference",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1135",
+    "favCuisines": "Organic-Healthy, Steaks, Middle_Eastern, Mediterranean, British, Austrian, Israeli, Doughnuts, Pizzeria, Seafood, Fast_Food, Moroccan, Hot_Dogs, Russian-Ukrainian, Malaysian, Burgers, Fusion, Korean, Japanese, Vegetarian, Turkish, Peruvian, Juice, Tapas, Eclectic, African, Basque, Canadian, Afghan, Diner, Irish, Sushi, Polynesian, Bagels, Tex-Mex, Cuban, Southwestern, Cafe-Coffee_Shop, Continental-European, Family, Indian-Pakistani, Tea_House, International, Pacific_Northwest, Australian, German, Regional, Spanish, Persian, Ethiopian, Romanian, Cambodian, Pacific_Rim, Tunisian, Filipino, Dim_Sum, Breakfast-Brunch, Contemporary, Greek, Thai, Swiss, Bar, Soup, American, Mongolian, Cajun-Creole, Armenian, Indigenous, Bar_Pub_Brewery, Hawaiian, Cafeteria, Lebanese, Chinese, Portuguese, Caribbean, Indonesian, Hungarian, Bakery, Dutch-Belgian, Deli-Sandwiches, Kosher, Fine_Dining, Jamaican, Tibetan, Latin_American, Southeast_Asian, Eastern_European, Mexican, Burmese, California, Game, Italian, Scandinavian, Chilean, Polish, North_African, Asian, Vietnamese, Barbecue, French, Brazilian, Southern, Dessert-Ice_Cream",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.170396",
+      "longitude": "-100.94994"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1988",
+      "height": "1.54",
+      "maritalStatus": "single",
+      "weight": "66"
+    },
+    "personality": {
+      "drinkLevel": "casual drinker",
+      "favColor": "purple",
+      "interest": "variety",
+      "typeOfWorker": "hunter-ostentatious"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "informal",
+      "smoker": "FALSE",
+      "transport": "on foot"
+    }
+  },
+  {
+    "_id": "1136",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.149607",
+      "longitude": "-100.99724"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1990",
+      "height": "1.6",
+      "maritalStatus": "single",
+      "weight": "50"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "black",
+      "interest": "retro",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "low",
+      "dressPreference": "no preference",
+      "smoker": "TRUE",
+      "transport": "car owner"
+    }
+  },
+  {
+    "_id": "1137",
+    "favCuisines": "Mexican",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.144803",
+      "longitude": "-100.94462"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "Catholic"
+    },
+    "personalTraits": {
+      "birthYear": "1989",
+      "height": "1.78",
+      "maritalStatus": "single",
+      "weight": "72"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "eco-friendly",
+      "typeOfWorker": "hard-worker"
+    },
+    "preferences": {
+      "ambience": "family",
+      "budget": "low",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  },
+  {
+    "_id": "1138",
+    "favCuisines": "Pizzeria",
+    "favPaymentMethod": "cash",
+    "location": {
+      "latitude": "22.152884",
+      "longitude": "-100.93966"
+    },
+    "otherDemographics": {
+      "employment": "student",
+      "religion": "none"
+    },
+    "personalTraits": {
+      "birthYear": "1991",
+      "height": "1.55",
+      "maritalStatus": "single",
+      "weight": "54"
+    },
+    "personality": {
+      "drinkLevel": "social drinker",
+      "favColor": "blue",
+      "interest": "variety",
+      "typeOfWorker": "thrifty-protector"
+    },
+    "preferences": {
+      "ambience": "friends",
+      "budget": "medium",
+      "dressPreference": "formal",
+      "smoker": "FALSE",
+      "transport": "public"
+    }
+  }
+]
